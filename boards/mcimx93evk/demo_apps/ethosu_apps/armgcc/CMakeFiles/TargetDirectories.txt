@@ -1,0 +1,3 @@
+/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/armgcc/CMakeFiles/ethosu_apps.elf.dir
+/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/armgcc/CMakeFiles/edit_cache.dir
+/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/armgcc/CMakeFiles/rebuild_cache.dir
