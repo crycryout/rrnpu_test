@@ -249,29 +249,29 @@ home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/etho
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ethosu_apps.elf.dir/build.make CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/hardware_init.c.s
 .PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/hardware_init.c.s
 
-home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.obj: home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.obj
-.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.obj
+home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.obj: home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.obj
+.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.obj
 
 # target to build an object file
-home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ethosu_apps.elf.dir/build.make CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.obj
-.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.obj
+home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ethosu_apps.elf.dir/build.make CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.obj
+.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.obj
 
-home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.i: home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.i
-.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.i
+home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.i: home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.i
+.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.i
 
 # target to preprocess a source file
-home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ethosu_apps.elf.dir/build.make CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.i
-.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.i
+home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ethosu_apps.elf.dir/build.make CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.i
+.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.i
 
-home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.s: home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.s
-.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.s
+home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.s: home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.s
+.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.s
 
 # target to generate assembly for a file
-home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ethosu_apps.elf.dir/build.make CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.s
-.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.s
+home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ethosu_apps.elf.dir/build.make CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.s
+.PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.s
 
 home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/rsc_table.obj: home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/rsc_table.c.obj
 .PHONY : home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/rsc_table.obj
@@ -7609,9 +7609,9 @@ help:
 	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/hardware_init.obj"
 	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/hardware_init.i"
 	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/hardware_init.s"
-	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.obj"
-	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.i"
-	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.s"
+	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.obj"
+	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.i"
+	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.s"
 	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/rsc_table.obj"
 	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/rsc_table.i"
 	@echo "... home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/rsc_table.s"

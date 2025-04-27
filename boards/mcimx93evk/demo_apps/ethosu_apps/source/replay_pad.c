@@ -133,6 +133,6 @@ void replay_inference(void){
     for (int i = RUN_STREAM_COMMAND_START; i <= RUN_STREAM_COMMAND_END; ++i) {
             register_access(&register_access_records[i]);
     }
-    PRINTF("HANDLING INTERRUPTS OK!");
+    PRINTF("HANDLING INTERRUPTS PAD OK!");
 }
 

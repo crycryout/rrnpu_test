@@ -46,9 +46,9 @@ include(${ProjDirPath}/config.cmake)
 
 add_executable(${MCUX_SDK_PROJECT_NAME} 
 "${ProjDirPath}/../source/ethosu_apps.cpp"
-"${ProjDirPath}/../source/relu_model.hpp"
-"${ProjDirPath}/../source/replay_templates_strided.h"
-"${ProjDirPath}/../source/replay_strided.c"
+"${ProjDirPath}/../source/conv2d_model.hpp"
+"${ProjDirPath}/../source/replay_templates_conv2d.h"
+"${ProjDirPath}/../source/replay_conv2d.c"
 "${ProjDirPath}/../pin_mux.c"
 "${ProjDirPath}/../pin_mux.h"
 "${ProjDirPath}/../rpmsg_config.h"

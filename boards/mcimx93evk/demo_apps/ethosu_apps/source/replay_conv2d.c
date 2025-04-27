@@ -52,7 +52,6 @@ void replay_handle_interrupt(void)
  //   const uintptr_t target_addr = 0x20484000UL;
 //    print_memory((const void *)target_addr, 1552);
     LOG_INFO("\n");
-    PRINTF("INTERRUPTS OK NOW!");
 }
 
 
@@ -134,5 +133,6 @@ void replay_inference(void){
     for (int i = RUN_STREAM_COMMAND_START; i <= RUN_STREAM_COMMAND_END; ++i) {
             register_access(&register_access_records[i]);
     }
+    PRINTF("HANDLING INTERRUPTS CONV2D OK!");
 }
 

@@ -1,6 +1,6 @@
-CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c.obj: \
- /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_strided.c \
- /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_templates_relu.h \
+CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.obj: \
+ /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c \
+ /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_templates_conv2d.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/lib/ethosu_log/include/ethosu_log.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console/fsl_debug_console.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/./fsl_common.h \
@@ -28,7 +28,7 @@ CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/b
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portmacro.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portmacrocommon.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/rtos/freertos/freertos-kernel/include/mpu_wrappers.h
-/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_templates_relu.h:
+/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_templates_conv2d.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/lib/ethosu_log/include/ethosu_log.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console/fsl_debug_console.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/./fsl_common.h:

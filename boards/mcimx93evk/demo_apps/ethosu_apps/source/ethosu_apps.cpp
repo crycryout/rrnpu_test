@@ -11,7 +11,7 @@
 
 #include "ethosu_driver.h"
 #include "ethosu_core_interface.h"
-#include "replay_templates_strided.h"
+#include "replay_templates_conv2d.h"
  
 #include "inference_process.hpp"
 // #include "add_model.hpp"

@@ -25,7 +25,7 @@ CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/b
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/ethosu_driver.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/ethosu_types.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/armgcc/../ethosu_core_interface.h \
- /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_templates_strided.h \
+ /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_templates_conv2d.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/applications/inference_process/include/inference_process.hpp \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/lib/ethosu_monitor/include/ethosu_monitor.hpp \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/pmu_ethosu.h \
@@ -68,7 +68,7 @@ CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/b
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/ethosu_driver.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/ethosu_types.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/armgcc/../ethosu_core_interface.h:
-/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_templates_strided.h:
+/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_templates_conv2d.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/applications/inference_process/include/inference_process.hpp:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/lib/ethosu_monitor/include/ethosu_monitor.hpp:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/pmu_ethosu.h:

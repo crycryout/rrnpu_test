@@ -1,6 +1,6 @@
-set(CMAKE_HOST_SYSTEM "Linux-5.15.0-136-generic")
+set(CMAKE_HOST_SYSTEM "Linux-5.15.0-138-generic")
 set(CMAKE_HOST_SYSTEM_NAME "Linux")
-set(CMAKE_HOST_SYSTEM_VERSION "5.15.0-136-generic")
+set(CMAKE_HOST_SYSTEM_VERSION "5.15.0-138-generic")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")
 
 include("/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/tools/cmake_toolchain_files/armgcc.cmake")

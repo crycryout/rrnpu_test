@@ -134,5 +134,5 @@ void replay_inference(void){
             if(i!=27)
             register_access(&register_access_records[i]);
     }
-    //PRINTF("HANDLING INTERRUPTS OK!");
+    PRINTF("HANDLING INTERRUPTS STRIDED OK!");
 }
