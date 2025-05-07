@@ -76,7 +76,7 @@ uint32_t register_access(reg_op_record_t *record) {
             memcpy((void *)0x20480000, op_34model_head_data, sizeof(op_34model_head_data));
             break;
         case 37:
-            memcpy((void *)0x20484050, op_37_input_record_data, sizeof(op_37_input_record_data));
+            //memcpy((void *)0x20484050, op_37_input_record_data, sizeof(op_37_input_record_data));
             break;
         case 40:
             memcpy((void *)0x20484000, op_40_data, sizeof(op_40_data));

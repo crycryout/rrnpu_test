@@ -23,7 +23,7 @@
 //#include "conv2d_model.hpp"
 //#include "depthwise_conv2d_model.hpp"
 //#include "fullconnected_model.hpp"
-#include "relu_model.hpp"
+//#include "relu_model.hpp"
 //#include "softmax_model.hpp"
 #include "FreeRTOSConfig.h"   // 一定要最先包含
 #include "FreeRTOS.h"
@@ -144,5 +144,11 @@ int main(void)
      PRINTF("用时:  cycles (%lu )\n",
           time_end-time_start);
     PRINTF("Done!\r\n");
+    {
+        volatile uint8_t *flag = (volatile uint8_t *)0x20490000;
+        *flag = 1;                /* 写入 0 */
+        __DSB();                  /* 数据同步屏障，确保写入完成可见 */
+    }
+
     return 0;
 }
