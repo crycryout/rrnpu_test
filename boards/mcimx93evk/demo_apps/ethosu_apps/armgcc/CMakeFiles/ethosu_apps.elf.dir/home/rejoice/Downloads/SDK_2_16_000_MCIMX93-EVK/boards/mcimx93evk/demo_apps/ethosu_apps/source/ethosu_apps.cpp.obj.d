@@ -30,6 +30,7 @@ CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/b
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/lib/ethosu_monitor/include/ethosu_monitor.hpp \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/pmu_ethosu.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/ethosu_driver.h \
+ /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/conv2d_model.hpp \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/armgcc/../FreeRTOSConfig.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/rtos/freertos/freertos-kernel/include/FreeRTOS.h \
  /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/rtos/freertos/freertos-kernel/include/projdefs.h \
@@ -72,6 +73,7 @@ CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/b
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/lib/ethosu_monitor/include/ethosu_monitor.hpp:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/pmu_ethosu.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/ethos-u-core-software/core_driver/include/ethosu_driver.h:
+/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/conv2d_model.hpp:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/armgcc/../FreeRTOSConfig.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/rtos/freertos/freertos-kernel/include/FreeRTOS.h:
 /home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/rtos/freertos/freertos-kernel/include/projdefs.h:

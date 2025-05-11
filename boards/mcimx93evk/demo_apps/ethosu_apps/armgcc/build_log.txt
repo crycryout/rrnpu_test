@@ -1,12 +1,12 @@
 [  0%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/ethosu_apps.cpp.obj
 [  0%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/replay_conv2d.c.obj
 [  0%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/pin_mux.c.obj
-[  1%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/hardware_init.c.obj
-[  1%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/board.c.obj
 [  1%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/clock_config.c.obj
+[  1%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/board.c.obj
+[  1%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/hardware_init.c.obj
 [  2%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/demo_apps/ethosu_apps/source/rsc_table.c.obj
-[  2%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
 [  2%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+[  2%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
 [  3%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/serial_manager/fsl_component_serial_manager.c.obj
 [  3%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/serial_manager/fsl_component_serial_port_uart.c.obj
 [  3%] Building C object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
@@ -58,8 +58,8 @@
 [ 18%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/signal/src/kiss_fft_wrappers/kiss_fft_int32.cpp.obj
 [ 18%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/core/api/error_reporter.cpp.obj
 [ 19%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/core/api/flatbuffer_conversions.cpp.obj
-[ 19%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/core/c/common.cpp.obj
 [ 19%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/core/api/tensor_utils.cpp.obj
+[ 19%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/core/c/common.cpp.obj
 [ 20%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/kernels/kernel_util.cpp.obj
 [ 20%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/kernels/internal/common.cpp.obj
 [ 20%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/kernels/internal/portable_tensor_utils.cpp.obj
@@ -176,8 +176,8 @@
 [ 56%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/micro/arena_allocator/single_arena_buffer_allocator.cpp.obj
 [ 56%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp.obj
 [ 56%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/linear_memory_planner.cpp.obj
-[ 57%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.cpp.obj
 [ 57%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.cpp.obj
+[ 57%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/non_persistent_buffer_planner_shim.cpp.obj
 [ 57%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/micro/tflite_bridge/micro_error_reporter.cpp.obj
 [ 58%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/schema/schema_utils.cpp.obj
 [ 58%] Building CXX object CMakeFiles/ethosu_apps.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/middleware/eiq/tensorflow-lite/tensorflow/lite/micro/debug_log.cpp.obj
@@ -313,8 +313,8 @@
 [100%] Linking CXX executable release/ethosu_apps.elf
 Memory region         Used Size  Region Size  %age Used
     m_interrupts:        1140 B       1144 B     99.65%
-          m_text:        8584 B     129928 B      6.61%
-          m_data:       21208 B       108 KB     19.18%
+          m_text:        8504 B     129928 B      6.55%
+          m_data:       21176 B       108 KB     19.15%
 m_m33_suspend_ram:          0 GB         8 KB      0.00%
 m_a55_suspend_ram:          0 GB         4 KB      0.00%
          m_ocram:          0 GB       384 KB      0.00%

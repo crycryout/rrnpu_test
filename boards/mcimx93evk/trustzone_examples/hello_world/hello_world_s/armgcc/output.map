@@ -1,0 +1,1663 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (exit)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+                              CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj (strtoul)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (__libc_init_array)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-impure.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o) (_impure_ptr)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o)
+                              CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj (malloc)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o) (_malloc_r)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+                              CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj (strlen)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o) (__sread)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mlock.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o) (__malloc_lock)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-ctype_.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o) (_ctype_)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-readr.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o) (_read_r)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-writer.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o) (_write_r)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-errno.o)
+                              CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj (__errno)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fwalk.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-memset.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (memset)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o) (_free_r)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-closer.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o) (_close_r)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-reent.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-readr.o) (errno)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o) (_fflush_r)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lseekr.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o) (_lseek_r)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse.o)
+                              CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj (cmse_check_address_range)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse_nonsecure_call.o)
+                              CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj (__gnu_cmse_nonsecure_call)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj (__aeabi_uldivmod)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_dvmd_tls.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a(_exit.o)
+                              /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/pin_mux.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/pin_mux.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/pin_mux.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_api.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_api.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_api.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+ .text.BOARD_McoreSUSPEND
+                0x00000000       0x40 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+ .text.BOARD_ConfigMPU
+                0x00000000       0xc8 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+ .bss.timing_info
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .text.BOARD_InitBootClocks
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .rodata.g_audioPllCfg
+                0x00000000       0x14 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .rodata.g_sysPllPfd2Cfg
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .rodata.g_sysPllPfd1Cfg
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .rodata.g_sysPllPfd0Cfg
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .rodata.g_sysPllCfg
+                0x00000000       0x14 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_Init
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetList
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddTail
+                0x00000000       0x36 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddHead
+                0x00000000       0x32 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_RemoveHead
+                0x00000000       0x2a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetHead
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetNext
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetPrev
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_RemoveElement
+                0x00000000       0x48 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddPrevElement
+                0x00000000       0x52 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetSize
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetAvailableSize
+                0x00000000        0x8 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .text.HAL_UartDeinit
+                0x00000000       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .text.HAL_UartEnterLowpower
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .text.HAL_UartExitLowpower
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+ .text.SystemInitHook
+                0x00000000        0x2 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000        0x2 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+ .data.SystemCoreClock
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .text.ADP5585_ModifyPortRegBits
+                0x00000000       0x5c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .text.ADP5585_Init
+                0x00000000        0xe CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .text.ADP5585_SetDirection
+                0x00000000        0xe CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .text.ADP5585_SetPins
+                0x00000000        0xa CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .text.ADP5585_ClearPins
+                0x00000000        0xa CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .text.ADP5585_TogglePins
+                0x00000000        0xa CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_GetInstanceByAddr
+                0x00000000       0x1a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_InvalidateCache
+                0x00000000       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_EnableCache
+                0x00000000       0x16 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_InvalidateCacheByRange
+                0x00000000       0x60 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_CleanCache
+                0x00000000       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_DisableCache
+                0x00000000       0x16 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_CleanCacheByRange
+                0x00000000       0x60 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_CleanInvalidateCache
+                0x00000000       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text.XCACHE_CleanInvalidateCacheByRange
+                0x00000000       0x5c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .rodata.s_xcachePhymemSizes
+                0x00000000        0x8 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .rodata.s_xcachePhymemBases
+                0x00000000        0x8 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .rodata.s_xcachectrlBases
+                0x00000000        0x8 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj
+ .text.SDK_Malloc
+                0x00000000       0x42 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj
+ .text.SDK_Free
+                0x00000000       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+ .text.MSDK_EnableCpuCycleCounter
+                0x00000000       0x30 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+ .text.MSDK_GetCpuCycleCount
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+ .text.SDK_DelayAtLeastUs
+                0x00000000       0x20 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_ReadNonBlocking
+                0x00000000       0x30 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferGetRxRingBufferLength
+                0x00000000       0x14 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_Deinit
+                0x00000000       0x54 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_SetBaudRate
+                0x00000000       0x98 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_Enable9bitMode
+                0x00000000       0x26 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_SendAddress
+                0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_EnableInterrupts
+                0x00000000       0x52 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_DisableInterrupts
+                0x00000000       0x58 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_GetEnabledInterrupts
+                0x00000000       0x2c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferHandleIRQ
+                0x00000000      0x32c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_WriteBlocking16bit
+                0x00000000       0x1c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_ReadBlocking16bit
+                0x00000000       0xa4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferCreateHandle
+                0x00000000       0x8c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferStartRingBuffer
+                0x00000000       0x26 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferStopRingBuffer
+                0x00000000       0x26 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferSendNonBlocking
+                0x00000000       0x36 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferAbortSend
+                0x00000000       0x1c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferGetSendCount
+                0x00000000       0x20 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferReceiveNonBlocking
+                0x00000000      0x110 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferAbortReceive
+                0x00000000       0x22 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferGetReceiveCount
+                0x00000000       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferHandleErrorIRQ
+                0x00000000        0x2 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .rodata.s_lpuartIRQ
+                0x00000000       0x12 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .text.PCAL6524_ModifyPortRegBits
+                0x00000000       0x4e CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .text.PCAL6524_Init
+                0x00000000        0xe CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .text.PCAL6524_SetDirection
+                0x00000000        0xe CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .text.PCAL6524_SetPins
+                0x00000000        0xa CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .text.PCAL6524_ClearPins
+                0x00000000        0xa CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .text.PCAL6524_TogglePins
+                0x00000000        0xa CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+ .text.RGPIO_GetInstance
+                0x00000000       0x38 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+ .text.RGPIO_PinInit
+                0x00000000       0x24 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_Init
+                0x00000000       0x14 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_Deinit
+                0x00000000        0x2 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_Ping
+                0x00000000       0x1c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_GetFirmwareVersion
+                0x00000000       0x44 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_GetFirmwareStatus
+                0x00000000       0x3c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_SetPowerDown
+                0x00000000       0x38 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_SessionOpen
+                0x00000000       0x68 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_SessionClose
+                0x00000000       0x38 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.compute_msg_crc
+                0x00000000       0x1a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_RngOpen
+                0x00000000       0x58 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_RngClose
+                0x00000000       0x38 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_RngGetRandom
+                0x00000000       0x60 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .rodata.SENTINEL_DumpDebugBuffer.str1.1
+                0x00000000       0x26 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_DumpDebugBuffer
+                0x00000000       0x54 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_RNG_GetRandomData
+                0x00000000       0x60 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text.SENTINEL_GetSocInfo
+                0x00000000       0x54 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ DataQuickAccess
+                0x00000000     0x1000 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_GetHardwareConfig
+                0x00000000       0x28 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_GetMbcHardwareConfig
+                0x00000000       0x1e CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_GetDefaultProcessorDomainAssignment
+                0x00000000        0x8 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_GetDefaultNonProcessorDomainAssignment
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_SetProcessorDomainAssignment
+                0x00000000       0x16 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_SetNonProcessorDomainAssignment
+                0x00000000       0x12 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_SetPid
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_GetDefaultIDAUConfig
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_SetIDAU
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_GetDefaultFlashLogicalWindowConfig
+                0x00000000       0x12 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_SetFlashLogicalWindow
+                0x00000000       0x1c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_Init
+                0x00000000        0x2 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_Deinit
+                0x00000000        0x2 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_GetAndClearFirstSpecificDomainError
+                0x00000000       0xb0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_GetAndClearFirstDomainError
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MrcSetMemoryAccessConfig
+                0x00000000       0x12 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MrcEnableDomainNseUpdate
+                0x00000000       0x1c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MrcRegionNseSet
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MrcRegionNseClear
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MrcDomainNseClear
+                0x00000000       0x12 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MrcSetRegionDescriptorConfig
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MbcSetNseUpdateConfig
+                0x00000000        0xe CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MbcWordNseSet
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MbcWordNseClear
+                0x00000000        0xc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MbcNseClearAll
+                0x00000000       0x16 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text.TRDC_MbcSetMemoryAccessConfig
+                0x00000000       0x12 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+ .text._sbrk    0x00000000       0x38 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+ .bss.heap_end.0
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._write   0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._read    0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._close   0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._lseek   0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._fstat   0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._getpid  0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._isatty  0x00000000        0xe CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._open    0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .text._stat    0x00000000       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_memcpy.S.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_memcpy.S.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_assert.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_assert.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_assert.c.obj
+ .text.fsl_assert_hook
+                0x00000000        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_assert.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_assert.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_assert.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_Deinit
+                0x00000000       0x1c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_EnterLowpower
+                0x00000000       0x1c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_ExitLowpower
+                0x00000000       0x1c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_Getchar
+                0x00000000       0x2c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_Scanf
+                0x00000000       0x68 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .data          0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .text.ScanIsWhiteSpace
+                0x00000000       0x14 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .text.ScanIgnoreWhiteSpace
+                0x00000000       0x22 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .text.ConvertRadixNumToString.isra.0
+                0x00000000       0x3e CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .text.StrFormatPrintf
+                0x00000000      0x1bc CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .text.StrFormatScanf
+                0x00000000      0x298 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .rodata.CSWTCH.73
+                0x00000000        0xf CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .text._strtoul_l.isra.0
+                0x00000000       0xdc /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .text._strtoul_r
+                0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .text.strtoul_l
+                0x00000000       0x14 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .text.strtoul  0x00000000       0x14 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .debug_frame   0x00000000       0x64 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strtoul.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o)
+ .text.malloc   0x00000000       0x10 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o)
+ .text.free     0x00000000       0x10 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o)
+ .debug_frame   0x00000000       0x30 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-malloc.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .ARM.extab     0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .eh_frame      0x00000000       0x28 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-ctype_.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-ctype_.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-ctype_.o)
+ .rodata._ctype_
+                0x00000000      0x101 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-ctype_.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-ctype_.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-errno.o)
+ .debug_frame   0x00000000       0x20 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xac /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x108 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse.o)
+ .debug_frame   0x00000000       0x2c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse_nonsecure_call.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse_nonsecure_call.o)
+ .text          0x00000000       0x30 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line_str
+                0x00000000       0xc6 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x26 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+ .text.__udivmoddi4
+                0x00000000      0x300 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.exidx.text.__udivmoddi4
+                0x00000000        0x8 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_line_str
+                0x00000000       0xca /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x26 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a(_exit.o)
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .text          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ .data          0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ .bss           0x00000000        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x1ffe0000         0x00000478         xr
+m_text           0x1ffe0478         0x0000f988         xr
+m_veneer_table   0x1ffefe00         0x00000200         xr
+m_m33_suspend_ram 0x30000000         0x00002000         rw
+m_a55_suspend_ram 0x30002000         0x00001000         rw
+m_data           0x30003000         0x0000b000         rw
+m_rsc_tbl        0x3001e000         0x00001000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/pin_mux.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_api.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/lists/fsl_component_generic_list.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/adp5585/fsl_adp5585.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_cache.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/pcal6524/fsl_pcal6524.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_memcpy.S.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_assert.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+LOAD CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/str/fsl_str.c.obj
+START GROUP
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libm.a
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+END GROUP
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+LOAD /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x00000400                        HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                        STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x00000000                        M_VECTOR_RAM_SIZE = DEFINED (__ram_vector_table__)?0x478:0x0
+
+.interrupts     0x1ffe0000      0x474
+                0x1ffe0000                        __VECTOR_TABLE = .
+                0x1ffe0000                        __Vectors = .
+                0x1ffe0000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x1ffe0000      0x474 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S.obj
+                0x1ffe0000                __isr_vector
+                0x1ffe0474                        . = ALIGN (0x4)
+
+.resource_table
+                0x1ffe0478        0x0
+                0x1ffe0478                        . = ALIGN (0x8)
+ *(.resource_table)
+                0x1ffe0478                        . = ALIGN (0x8)
+
+.gnu.sgstubs    0x1ffefe00       0x20
+                0x1ffefe00                        . = ALIGN (0x20)
+                0x1ffefe00                        _start_sg = .
+ *(.gnu.sgstubs*)
+                0x1ffefe00                        . = ALIGN (0x20)
+                0x1ffefe00                        _end_sg = .
+ .gnu.sgstubs.__stub
+                0x1ffefe00       0x10 linker stubs
+                0x1ffefe00                StringCompare_NSE
+                0x1ffefe08                DbgConsole_Printf_NSE
+
+.text           0x1ffe0478     0x1a18
+                0x1ffe0478                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x1ffe0478       0x7c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+                0x1ffe0478                _stack_init
+                0x1ffe0480                _mainCRTStartup
+                0x1ffe0480                _start
+ .text          0x1ffe04f4      0x4ac CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S.obj
+                0x1ffe04f4                Reset_Handler
+                0x1ffe056c                Reserved18_IRQHandler
+                0x1ffe056c                DMA4_14_15_DriverIRQHandler
+                0x1ffe056c                Reserved16_IRQHandler
+                0x1ffe056c                MU2_A_IRQHandler
+                0x1ffe056c                Reserved179_IRQHandler
+                0x1ffe056c                LPSPI2_DriverIRQHandler
+                0x1ffe056c                DMA4_20_21_DriverIRQHandler
+                0x1ffe056c                DebugMon_Handler
+                0x1ffe056c                Reserved178_IRQHandler
+                0x1ffe056c                Reserved220_IRQHandler
+                0x1ffe056c                Reserved88_IRQHandler
+                0x1ffe056c                Reserved243_IRQHandler
+                0x1ffe056c                Reserved65_IRQHandler
+                0x1ffe056c                Reserved229_IRQHandler
+                0x1ffe056c                Reserved76_IRQHandler
+                0x1ffe056c                Reserved248_IRQHandler
+                0x1ffe056c                Reserved64_IRQHandler
+                0x1ffe056c                LPSPI4_DriverIRQHandler
+                0x1ffe056c                Reserved60_IRQHandler
+                0x1ffe056c                Reserved236_IRQHandler
+                0x1ffe056c                Reserved234_IRQHandler
+                0x1ffe056c                Reserved225_IRQHandler
+                0x1ffe056c                CSI_IRQHandler
+                0x1ffe056c                LPI2C5_DriverIRQHandler
+                0x1ffe056c                Reserved50_IRQHandler
+                0x1ffe056c                TRDC_IRQHandler
+                0x1ffe056c                Reserved183_IRQHandler
+                0x1ffe056c                LPIT2_IRQHandler
+                0x1ffe056c                Reserved19_IRQHandler
+                0x1ffe056c                DMA4_0_1_DriverIRQHandler
+                0x1ffe056c                Reserved74_IRQHandler
+                0x1ffe056c                Reserved89_IRQHandler
+                0x1ffe056c                Reserved59_IRQHandler
+                0x1ffe056c                LPTMR2_IRQHandler
+                0x1ffe056c                Reserved272_IRQHandler
+                0x1ffe056c                Reserved263_IRQHandler
+                0x1ffe056c                DMA4_58_59_DriverIRQHandler
+                0x1ffe056c                ENET_1588_DriverIRQHandler
+                0x1ffe056c                LPI2C3_DriverIRQHandler
+                0x1ffe056c                DMA4_52_53_DriverIRQHandler
+                0x1ffe056c                Reserved42_IRQHandler
+                0x1ffe056c                Reserved22_IRQHandler
+                0x1ffe056c                Reserved75_IRQHandler
+                0x1ffe056c                Reserved238_IRQHandler
+                0x1ffe056c                Reserved280_IRQHandler
+                0x1ffe056c                Reserved268_IRQHandler
+                0x1ffe056c                DMA4_10_11_DriverIRQHandler
+                0x1ffe056c                DMA4_34_35_DriverIRQHandler
+                0x1ffe056c                Reserved176_IRQHandler
+                0x1ffe056c                Reserved233_IRQHandler
+                0x1ffe056c                Reserved224_IRQHandler
+                0x1ffe056c                FLEXIO2_DriverIRQHandler
+                0x1ffe056c                UsageFault_Handler
+                0x1ffe056c                WDOG1_IRQHandler
+                0x1ffe056c                Reserved265_IRQHandler
+                0x1ffe056c                Reserved235_IRQHandler
+                0x1ffe056c                Reserved57_IRQHandler
+                0x1ffe056c                Reserved257_IRQHandler
+                0x1ffe056c                DefaultISR
+                0x1ffe056c                Reserved250_IRQHandler
+                0x1ffe056c                Reserved58_IRQHandler
+                0x1ffe056c                Reserved264_IRQHandler
+                0x1ffe056c                Reserved261_IRQHandler
+                0x1ffe056c                Reserved284_IRQHandler
+                0x1ffe056c                I3C2_DriverIRQHandler
+                0x1ffe056c                Reserved230_IRQHandler
+                0x1ffe056c                Reserved279_IRQHandler
+                0x1ffe056c                Reserved182_IRQHandler
+                0x1ffe056c                DMA4_50_51_DriverIRQHandler
+                0x1ffe056c                Reserved180_IRQHandler
+                0x1ffe056c                Reserved267_IRQHandler
+                0x1ffe056c                Reserved239_IRQHandler
+                0x1ffe056c                MU1_B_IRQHandler
+                0x1ffe056c                Reserved177_IRQHandler
+                0x1ffe056c                WDOG4_IRQHandler
+                0x1ffe056c                Reserved283_IRQHandler
+                0x1ffe056c                DMA4_28_29_DriverIRQHandler
+                0x1ffe056c                Reserved228_IRQHandler
+                0x1ffe056c                DMA4_ERROR_DriverIRQHandler
+                0x1ffe056c                Reserved253_IRQHandler
+                0x1ffe056c                DMA4_6_7_DriverIRQHandler
+                0x1ffe056c                ENET_MAC0_Rx_Tx_Done2_DriverIRQHandler
+                0x1ffe056c                Reserved274_IRQHandler
+                0x1ffe056c                LPI2C6_DriverIRQHandler
+                0x1ffe056c                DMA4_56_57_DriverIRQHandler
+                0x1ffe056c                TPM2_IRQHandler
+                0x1ffe056c                FLEXIO1_DriverIRQHandler
+                0x1ffe056c                Reserved232_IRQHandler
+                0x1ffe056c                ENET_DriverIRQHandler
+                0x1ffe056c                Reserved43_IRQHandler
+                0x1ffe056c                DMA4_36_37_DriverIRQHandler
+                0x1ffe056c                Reserved21_IRQHandler
+                0x1ffe056c                DMA4_26_27_DriverIRQHandler
+                0x1ffe056c                SAI1_DriverIRQHandler
+                0x1ffe056c                Reserved278_IRQHandler
+                0x1ffe056c                Reserved277_IRQHandler
+                0x1ffe056c                DMA3_DriverIRQHandler
+                0x1ffe056c                TPM3_IRQHandler
+                0x1ffe056c                Reserved241_IRQHandler
+                0x1ffe056c                Reserved27_IRQHandler
+                0x1ffe056c                WDOG2_IRQHandler
+                0x1ffe056c                Reserved62_IRQHandler
+                0x1ffe056c                Reserved275_IRQHandler
+                0x1ffe056c                Reserved256_IRQHandler
+                0x1ffe056c                Reserved252_IRQHandler
+                0x1ffe056c                Reserved206_IRQHandler
+                0x1ffe056c                DMA4_18_19_DriverIRQHandler
+                0x1ffe056c                Reserved181_IRQHandler
+                0x1ffe056c                Reserved108_IRQHandler
+                0x1ffe056c                Reserved72_IRQHandler
+                0x1ffe056c                DMA4_12_13_DriverIRQHandler
+                0x1ffe056c                Reserved259_IRQHandler
+                0x1ffe056c                Reserved194_IRQHandler
+                0x1ffe056c                SecureFault_Handler
+                0x1ffe056c                DMA4_8_9_DriverIRQHandler
+                0x1ffe056c                PDM_ERROR_DriverIRQHandler
+                0x1ffe056c                Reserved66_IRQHandler
+                0x1ffe056c                Reserved20_IRQHandler
+                0x1ffe056c                Reserved249_IRQHandler
+                0x1ffe056c                Reserved107_IRQHandler
+                0x1ffe056c                LPSPI8_DriverIRQHandler
+                0x1ffe056c                Reserved98_IRQHandler
+                0x1ffe056c                Reserved17_IRQHandler
+                0x1ffe056c                Reserved189_IRQHandler
+                0x1ffe056c                Reserved47_IRQHandler
+                0x1ffe056c                Reserved271_IRQHandler
+                0x1ffe056c                Reserved258_IRQHandler
+                0x1ffe056c                CAN2_DriverIRQHandler
+                0x1ffe056c                DMA4_62_63_DriverIRQHandler
+                0x1ffe056c                CAN2_ERROR_DriverIRQHandler
+                0x1ffe056c                DMA4_44_45_DriverIRQHandler
+                0x1ffe056c                ENET_MAC0_Rx_Tx_Done1_DriverIRQHandler
+                0x1ffe056c                Reserved190_IRQHandler
+                0x1ffe056c                Reserved231_IRQHandler
+                0x1ffe056c                Reserved276_IRQHandler
+                0x1ffe056c                Reserved282_IRQHandler
+                0x1ffe056c                Reserved260_IRQHandler
+                0x1ffe056c                Reserved105_IRQHandler
+                0x1ffe056c                Reserved269_IRQHandler
+                0x1ffe056c                Reserved104_IRQHandler
+                0x1ffe056c                Reserved203_IRQHandler
+                0x1ffe056c                Reserved101_IRQHandler
+                0x1ffe056c                Reserved223_IRQHandler
+                0x1ffe056c                Reserved204_IRQHandler
+                0x1ffe056c                uSDHC3_DriverIRQHandler
+                0x1ffe056c                Reserved41_IRQHandler
+                0x1ffe056c                DMA4_60_61_DriverIRQHandler
+                0x1ffe056c                MemManage_Handler
+                0x1ffe056c                Reserved90_IRQHandler
+                0x1ffe056c                SAI2_DriverIRQHandler
+                0x1ffe056c                LPSPI6_DriverIRQHandler
+                0x1ffe056c                Reserved242_IRQHandler
+                0x1ffe056c                Reserved205_IRQHandler
+                0x1ffe056c                TPM6_IRQHandler
+                0x1ffe056c                Reserved48_IRQHandler
+                0x1ffe056c                PDM_EVENT_DriverIRQHandler
+                0x1ffe056c                ENET_QOS_PMT_IRQHandler
+                0x1ffe056c                Reserved185_IRQHandler
+                0x1ffe056c                DMA4_54_55_DriverIRQHandler
+                0x1ffe056c                Reserved222_IRQHandler
+                0x1ffe056c                MU2_B_IRQHandler
+                0x1ffe056c                SAI3_DriverIRQHandler
+                0x1ffe056c                Reserved254_IRQHandler
+                0x1ffe056c                Reserved109_IRQHandler
+                0x1ffe056c                Reserved244_IRQHandler
+                0x1ffe056c                DMA4_32_33_DriverIRQHandler
+                0x1ffe056c                ISI_IRQHandler
+                0x1ffe056c                DMA4_24_25_DriverIRQHandler
+                0x1ffe056c                Reserved255_IRQHandler
+                0x1ffe056c                DMA4_2_3_DriverIRQHandler
+                0x1ffe056c                LPI2C1_DriverIRQHandler
+                0x1ffe056c                Reserved262_IRQHandler
+                0x1ffe056c                DMA4_48_49_DriverIRQHandler
+                0x1ffe056c                Reserved142_IRQHandler
+                0x1ffe056c                Reserved184_IRQHandler
+                0x1ffe056c                Reserved100_IRQHandler
+                0x1ffe056c                LPSPI7_DriverIRQHandler
+                0x1ffe056c                LPSPI1_DriverIRQHandler
+                0x1ffe056c                Reserved26_IRQHandler
+                0x1ffe056c                Reserved245_IRQHandler
+                0x1ffe056c                DSI_IRQHandler
+                0x1ffe056c                Reserved251_IRQHandler
+                0x1ffe056c                Reserved46_IRQHandler
+                0x1ffe056c                Reserved202_IRQHandler
+                0x1ffe056c                Reserved273_IRQHandler
+                0x1ffe056c                Reserved246_IRQHandler
+                0x1ffe056c                ENET_QOS_DriverIRQHandler
+                0x1ffe056c                TPM4_IRQHandler
+                0x1ffe056c                LPSPI5_DriverIRQHandler
+                0x1ffe056c                Reserved270_IRQHandler
+                0x1ffe056c                Reserved23_IRQHandler
+                0x1ffe056c                Reserved266_IRQHandler
+                0x1ffe056c                Reserved240_IRQHandler
+                0x1ffe056c                Reserved45_IRQHandler
+                0x1ffe056c                DMA4_4_5_DriverIRQHandler
+                0x1ffe056c                LPI2C4_DriverIRQHandler
+                0x1ffe056c                DMA4_38_39_DriverIRQHandler
+                0x1ffe056c                Reserved73_IRQHandler
+                0x1ffe056c                DMA4_30_31_DriverIRQHandler
+                0x1ffe056c                TEMPMON_IRQHandler
+                0x1ffe056c                TPM1_IRQHandler
+                0x1ffe056c                Reserved106_IRQHandler
+                0x1ffe056c                uSDHC1_DriverIRQHandler
+                0x1ffe056c                DMA4_22_23_DriverIRQHandler
+                0x1ffe056c                uSDHC2_DriverIRQHandler
+                0x1ffe056c                Reserved51_IRQHandler
+                0x1ffe056c                Reserved192_IRQHandler
+                0x1ffe056c                LPIT1_IRQHandler
+                0x1ffe056c                CAN1_ERROR_DriverIRQHandler
+                0x1ffe056c                Reserved44_IRQHandler
+                0x1ffe056c                DMA4_42_43_DriverIRQHandler
+                0x1ffe056c                WDOG5_IRQHandler
+                0x1ffe056c                Reserved63_IRQHandler
+                0x1ffe056c                I3C1_DriverIRQHandler
+                0x1ffe056c                Reserved247_IRQHandler
+                0x1ffe056c                MU1_A_IRQHandler
+                0x1ffe056c                TPM5_IRQHandler
+                0x1ffe056c                DMA4_16_17_DriverIRQHandler
+                0x1ffe056c                BusFault_Handler
+                0x1ffe056c                DMA4_46_47_DriverIRQHandler
+                0x1ffe056c                PDM_HWVAD_ERROR_DriverIRQHandler
+                0x1ffe056c                LPSPI3_DriverIRQHandler
+                0x1ffe056c                Reserved201_IRQHandler
+                0x1ffe056c                PDM_HWVAD_EVENT_DriverIRQHandler
+                0x1ffe056c                LPI2C2_DriverIRQHandler
+                0x1ffe056c                DMA4_40_41_DriverIRQHandler
+                0x1ffe056c                WDOG3_IRQHandler
+                0x1ffe056c                LPTMR1_IRQHandler
+                0x1ffe056c                CAN1_DriverIRQHandler
+                0x1ffe056c                Reserved49_IRQHandler
+                0x1ffe056c                FlexSPI1_DriverIRQHandler
+                0x1ffe056c                Reserved281_IRQHandler
+                0x1ffe056c                LPI2C7_DriverIRQHandler
+                0x1ffe056c                Reserved219_IRQHandler
+                0x1ffe056c                Reserved237_IRQHandler
+                0x1ffe056c                LPI2C8_DriverIRQHandler
+                0x1ffe0570                NMI_Handler
+                0x1ffe0574                HardFault_Handler
+                0x1ffe0578                SVC_Handler
+                0x1ffe057c                PendSV_Handler
+                0x1ffe0580                SysTick_Handler
+                0x1ffe0584                CAN1_IRQHandler
+                0x1ffe0588                CAN1_ERROR_IRQHandler
+                0x1ffe058c                I3C1_IRQHandler
+                0x1ffe0590                LPI2C1_IRQHandler
+                0x1ffe0594                LPI2C2_IRQHandler
+                0x1ffe0598                LPSPI1_IRQHandler
+                0x1ffe059c                LPSPI2_IRQHandler
+                0x1ffe05a0                LPUART1_IRQHandler
+                0x1ffe05a4                LPUART2_IRQHandler
+                0x1ffe05a8                SAI1_IRQHandler
+                0x1ffe05ac                CAN2_IRQHandler
+                0x1ffe05b0                CAN2_ERROR_IRQHandler
+                0x1ffe05b4                FLEXIO1_IRQHandler
+                0x1ffe05b8                FLEXIO2_IRQHandler
+                0x1ffe05bc                FlexSPI1_IRQHandler
+                0x1ffe05c0                I3C2_IRQHandler
+                0x1ffe05c4                LPI2C3_IRQHandler
+                0x1ffe05c8                LPI2C4_IRQHandler
+                0x1ffe05cc                LPSPI3_IRQHandler
+                0x1ffe05d0                LPSPI4_IRQHandler
+                0x1ffe05d4                LPUART3_IRQHandler
+                0x1ffe05d8                LPUART4_IRQHandler
+                0x1ffe05dc                LPUART5_IRQHandler
+                0x1ffe05e0                LPUART6_IRQHandler
+                0x1ffe05e4                uSDHC1_IRQHandler
+                0x1ffe05e8                uSDHC2_IRQHandler
+                0x1ffe05ec                DMA3_ERROR_IRQHandler
+                0x1ffe05f4                DMA3_0_IRQHandler
+                0x1ffe0600                DMA3_1_IRQHandler
+                0x1ffe060c                DMA3_2_IRQHandler
+                0x1ffe0618                DMA3_3_IRQHandler
+                0x1ffe0624                DMA3_4_IRQHandler
+                0x1ffe0630                DMA3_5_IRQHandler
+                0x1ffe063c                DMA3_6_IRQHandler
+                0x1ffe0648                DMA3_7_IRQHandler
+                0x1ffe0654                DMA3_8_IRQHandler
+                0x1ffe0660                DMA3_9_IRQHandler
+                0x1ffe066c                DMA3_10_IRQHandler
+                0x1ffe0678                DMA3_11_IRQHandler
+                0x1ffe0684                DMA3_12_IRQHandler
+                0x1ffe0690                DMA3_13_IRQHandler
+                0x1ffe069c                DMA3_14_IRQHandler
+                0x1ffe06a8                DMA3_15_IRQHandler
+                0x1ffe06b4                DMA3_16_IRQHandler
+                0x1ffe06c0                DMA3_17_IRQHandler
+                0x1ffe06cc                DMA3_18_IRQHandler
+                0x1ffe06d8                DMA3_19_IRQHandler
+                0x1ffe06e4                DMA3_20_IRQHandler
+                0x1ffe06f0                DMA3_21_IRQHandler
+                0x1ffe06fc                DMA3_22_IRQHandler
+                0x1ffe0708                DMA3_23_IRQHandler
+                0x1ffe0714                DMA3_24_IRQHandler
+                0x1ffe0720                DMA3_25_IRQHandler
+                0x1ffe072c                DMA3_26_IRQHandler
+                0x1ffe0738                DMA3_27_IRQHandler
+                0x1ffe0744                DMA3_28_IRQHandler
+                0x1ffe0750                DMA3_29_IRQHandler
+                0x1ffe075c                DMA3_30_IRQHandler
+                0x1ffe0768                DMA4_ERROR_IRQHandler
+                0x1ffe076c                DMA4_0_1_IRQHandler
+                0x1ffe0770                DMA4_2_3_IRQHandler
+                0x1ffe0774                DMA4_4_5_IRQHandler
+                0x1ffe0778                DMA4_6_7_IRQHandler
+                0x1ffe077c                DMA4_8_9_IRQHandler
+                0x1ffe0780                DMA4_10_11_IRQHandler
+                0x1ffe0784                DMA4_12_13_IRQHandler
+                0x1ffe0788                DMA4_14_15_IRQHandler
+                0x1ffe078c                DMA4_16_17_IRQHandler
+                0x1ffe0790                DMA4_18_19_IRQHandler
+                0x1ffe0794                DMA4_20_21_IRQHandler
+                0x1ffe0798                DMA4_22_23_IRQHandler
+                0x1ffe079c                DMA4_24_25_IRQHandler
+                0x1ffe07a0                DMA4_26_27_IRQHandler
+                0x1ffe07a4                DMA4_28_29_IRQHandler
+                0x1ffe07a8                DMA4_30_31_IRQHandler
+                0x1ffe07ac                DMA4_32_33_IRQHandler
+                0x1ffe07b0                DMA4_34_35_IRQHandler
+                0x1ffe07b4                DMA4_36_37_IRQHandler
+                0x1ffe07b8                DMA4_38_39_IRQHandler
+                0x1ffe07bc                DMA4_40_41_IRQHandler
+                0x1ffe07c0                DMA4_42_43_IRQHandler
+                0x1ffe07c4                DMA4_44_45_IRQHandler
+                0x1ffe07c8                DMA4_46_47_IRQHandler
+                0x1ffe07cc                DMA4_48_49_IRQHandler
+                0x1ffe07d0                DMA4_50_51_IRQHandler
+                0x1ffe07d4                DMA4_52_53_IRQHandler
+                0x1ffe07d8                DMA4_54_55_IRQHandler
+                0x1ffe07dc                DMA4_56_57_IRQHandler
+                0x1ffe07e0                DMA4_58_59_IRQHandler
+                0x1ffe07e4                DMA4_60_61_IRQHandler
+                0x1ffe07e8                DMA4_62_63_IRQHandler
+                0x1ffe07ec                SAI2_IRQHandler
+                0x1ffe07f0                SAI3_IRQHandler
+                0x1ffe07f4                ENET_MAC0_Rx_Tx_Done1_IRQHandler
+                0x1ffe07f8                ENET_MAC0_Rx_Tx_Done2_IRQHandler
+                0x1ffe07fc                ENET_IRQHandler
+                0x1ffe0800                ENET_1588_IRQHandler
+                0x1ffe0804                ENET_QOS_IRQHandler
+                0x1ffe0808                LPSPI5_IRQHandler
+                0x1ffe080c                LPSPI6_IRQHandler
+                0x1ffe0810                LPSPI7_IRQHandler
+                0x1ffe0814                LPSPI8_IRQHandler
+                0x1ffe0818                LPI2C5_IRQHandler
+                0x1ffe081c                LPI2C6_IRQHandler
+                0x1ffe0820                LPI2C7_IRQHandler
+                0x1ffe0824                LPI2C8_IRQHandler
+                0x1ffe0828                PDM_HWVAD_ERROR_IRQHandler
+                0x1ffe082c                PDM_HWVAD_EVENT_IRQHandler
+                0x1ffe0830                PDM_ERROR_IRQHandler
+                0x1ffe0834                PDM_EVENT_IRQHandler
+                0x1ffe0838                uSDHC3_IRQHandler
+                0x1ffe083c                LPUART7_IRQHandler
+                0x1ffe0840                LPUART8_IRQHandler
+ .text          0x1ffe09a0       0xa0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_memcpy.S.obj
+                0x1ffe09a0                memcpy
+ .text          0x1ffe0a40       0x10 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+                0x1ffe0a40                strlen
+ .text          0x1ffe0a50       0x5c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse_nonsecure_call.o)
+                0x1ffe0a50                __gnu_cmse_nonsecure_call
+ *(.text*)
+ .text.deregister_tm_clones
+                0x1ffe0aac       0x1c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x1ffe0ac8       0x28 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x1ffe0af0       0x28 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x1ffe0b18       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.SystemInitHook
+                0x1ffe0b3c        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+                0x1ffe0b3c                SystemInitHook
+ .text.startup.main
+                0x1ffe0b40       0x30 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+                0x1ffe0b40                main
+ .text.BOARD_InitPins
+                0x1ffe0b70       0x20 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/pin_mux.c.obj
+                0x1ffe0b70                BOARD_InitPins
+ .text.BOARD_InitBootPins
+                0x1ffe0b90        0x4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/pin_mux.c.obj
+                0x1ffe0b90                BOARD_InitBootPins
+ .text.BOARD_ReleaseTRDC
+                0x1ffe0b94        0x6 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+                0x1ffe0b94                BOARD_ReleaseTRDC
+ *fill*         0x1ffe0b9a        0x2 
+ .text.App_SetTrdcMBCNSE
+                0x1ffe0b9c       0x48 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+                0x1ffe0b9c                App_SetTrdcMBCNSE
+ .text.APP_SetTrdcGlobalConfig
+                0x1ffe0be4       0x30 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+                0x1ffe0be4                APP_SetTrdcGlobalConfig
+ .text.BOARD_InitTrustZone
+                0x1ffe0c14       0xc8 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+                0x1ffe0c14                BOARD_InitTrustZone
+ .text.strnlen  0x1ffe0cdc       0x10 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+                0x1ffe0cdc                strnlen
+ .text.DbgConsole_Printf_NSE
+                0x1ffe0cec       0xb0 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+                0x1ffe0cec                __acle_se_DbgConsole_Printf_NSE
+ .text.StringCompare_NSE
+                0x1ffe0d9c      0x14c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+                0x1ffe0d9c                __acle_se_StringCompare_NSE
+ .text.TZM_JumpToNormalWorld
+                0x1ffe0ee8       0x64 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_api.c.obj
+                0x1ffe0ee8                TZM_JumpToNormalWorld
+ .text.BOARD_InitDebugConsole
+                0x1ffe0f4c       0x4c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+                0x1ffe0f4c                BOARD_InitDebugConsole
+ .text.BOARD_BootClockRUN
+                0x1ffe0f98       0x94 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+                0x1ffe0f98                BOARD_BootClockRUN
+ .text.HAL_UartInit
+                0x1ffe102c       0x9c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+                0x1ffe102c                HAL_UartInit
+ .text.HAL_UartReceiveBlocking
+                0x1ffe10c8       0x20 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+                0x1ffe10c8                HAL_UartReceiveBlocking
+ .text.HAL_UartSendBlocking
+                0x1ffe10e8       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+                0x1ffe10e8                HAL_UartSendBlocking
+ .text.SystemInit
+                0x1ffe1100       0x2c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+                0x1ffe1100                SystemInit
+ .text.CLOCK_GetIpFreq
+                0x1ffe112c       0x34 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+                0x1ffe112c                CLOCK_GetIpFreq
+ .text.LPUART_GetInstance
+                0x1ffe1160       0x30 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe1160                LPUART_GetInstance
+ .text.LPUART_Init
+                0x1ffe1190      0x1ac CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe1190                LPUART_Init
+ .text.LPUART_GetDefaultConfig
+                0x1ffe133c       0x1e CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe133c                LPUART_GetDefaultConfig
+ *fill*         0x1ffe135a        0x2 
+ .text.LPUART_GetStatusFlags
+                0x1ffe135c       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe135c                LPUART_GetStatusFlags
+ .text.LPUART_ClearStatusFlags
+                0x1ffe1374       0x3c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe1374                LPUART_ClearStatusFlags
+ .text.LPUART_WriteBlocking
+                0x1ffe13b0       0x1e CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe13b0                LPUART_WriteBlocking
+ .text.LPUART_ReadBlocking
+                0x1ffe13ce       0xc2 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe13ce                LPUART_ReadBlocking
+ .text.LPUART1_DriverIRQHandler
+                0x1ffe1490       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe1490                LPUART1_DriverIRQHandler
+ .text.LPUART2_DriverIRQHandler
+                0x1ffe14a8       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe14a8                LPUART2_DriverIRQHandler
+ .text.LPUART3_DriverIRQHandler
+                0x1ffe14c0       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe14c0                LPUART3_DriverIRQHandler
+ .text.LPUART4_DriverIRQHandler
+                0x1ffe14d8       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe14d8                LPUART4_DriverIRQHandler
+ .text.LPUART5_DriverIRQHandler
+                0x1ffe14f0       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe14f0                LPUART5_DriverIRQHandler
+ .text.LPUART6_DriverIRQHandler
+                0x1ffe1508       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe1508                LPUART6_DriverIRQHandler
+ .text.LPUART7_DriverIRQHandler
+                0x1ffe1520       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe1520                LPUART7_DriverIRQHandler
+ .text.LPUART8_DriverIRQHandler
+                0x1ffe1538       0x18 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x1ffe1538                LPUART8_DriverIRQHandler
+ .text.SENTINEL_SendMessage
+                0x1ffe1550       0x34 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+                0x1ffe1550                SENTINEL_SendMessage
+ .text.SENTINEL_ReceiveMessage
+                0x1ffe1584       0x78 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+                0x1ffe1584                SENTINEL_ReceiveMessage
+ .text.SENTINEL_Command
+                0x1ffe15fc       0x5c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+                0x1ffe15fc                SENTINEL_Command
+ .text.SENTINEL_ReleaseRDC
+                0x1ffe1658       0x48 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+                0x1ffe1658                SENTINEL_ReleaseRDC
+ .text.TRDC_MbcSetMemoryBlockConfig
+                0x1ffe16a0       0x56 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+                0x1ffe16a0                TRDC_MbcSetMemoryBlockConfig
+ .text.DbgConsole_ConvertRadixNumToString.isra.0
+                0x1ffe16f6       0x3e CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_Init
+                0x1ffe1734       0x50 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+                0x1ffe1734                DbgConsole_Init
+ .text.DbgConsole_Putchar
+                0x1ffe1784       0x24 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+                0x1ffe1784                DbgConsole_Putchar
+ .text.DbgConsole_Vprintf
+                0x1ffe17a8      0x1e4 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+                0x1ffe17a8                DbgConsole_Vprintf
+ .text.DbgConsole_Printf
+                0x1ffe198c       0x1a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+                0x1ffe198c                DbgConsole_Printf
+ *fill*         0x1ffe19a6        0x2 
+ .text.exit     0x1ffe19a8       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o)
+                0x1ffe19a8                exit
+ .text.__libc_init_array
+                0x1ffe19cc       0x48 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
+                0x1ffe19cc                __libc_init_array
+ .text.memset   0x1ffe1a14       0x10 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-memset.o)
+                0x1ffe1a14                memset
+ .text.cmse_check_address_range
+                0x1ffe1a24       0xe4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse.o)
+                0x1ffe1a24                cmse_check_address_range
+ .text._exit    0x1ffe1b08        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a(_exit.o)
+                0x1ffe1b08                _exit
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x1ffe1b0c      0x177 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+                                 0x34 (size before relaxing)
+ .rodata.DbgConsole_Printf_NSE.str1.1
+                0x1ffe1c83       0x5a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+ .rodata.StringCompare_NSE.str1.1
+                0x1ffe1c83       0xe9 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/veneer_table.c.obj
+ *fill*         0x1ffe1c83        0x1 
+ .rodata.s_LpuartAdapterBase
+                0x1ffe1c84       0x24 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .rodata.s_clockSourceName
+                0x1ffe1ca8      0x17c CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+                0x1ffe1ca8                s_clockSourceName
+ .rodata.s_lpuartClock
+                0x1ffe1e24        0x9 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ *fill*         0x1ffe1e2d        0x3 
+ .rodata.s_lpuartBases
+                0x1ffe1e30       0x24 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .rodata.s_lpuartBases_ns
+                0x1ffe1e54       0x24 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ *(.glue_7)
+ .glue_7        0x1ffe1e78        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x1ffe1e78        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x1ffe1e78        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x1ffe1e78        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+                0x1ffe1e78                _init
+ .init          0x1ffe1e7c        0x8 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x1ffe1e84        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+                0x1ffe1e84                _fini
+ .fini          0x1ffe1e88        0x8 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x1ffe1e90                        . = ALIGN (0x4)
+
+.vfp11_veneer   0x1ffe1e90        0x0
+ .vfp11_veneer  0x1ffe1e90        0x0 linker stubs
+
+.v4_bx          0x1ffe1e90        0x0
+ .v4_bx         0x1ffe1e90        0x0 linker stubs
+
+.iplt           0x1ffe1e90        0x0
+ .iplt          0x1ffe1e90        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x1ffe1e90        0x8
+                0x1ffe1e90                        __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x1ffe1e90        0x8 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+                                 0x10 (size before relaxing)
+ .ARM.exidx     0x1ffe1e98        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+                                  0x8 (size before relaxing)
+                0x1ffe1e98                        __exidx_end = .
+
+.rel.dyn        0x1ffe1e98        0x0
+ .rel.iplt      0x1ffe1e98        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.ctors          0x1ffe1e98        0x0
+                0x1ffe1e98                        __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x1ffe1e98                        __CTOR_END__ = .
+
+.dtors          0x1ffe1e98        0x0
+                0x1ffe1e98                        __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x1ffe1e98                        __DTOR_END__ = .
+
+.preinit_array  0x1ffe1e98        0x0
+                0x1ffe1e98                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x1ffe1e98                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x1ffe1e98        0x4
+                0x1ffe1e98                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x1ffe1e98        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x1ffe1e9c                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x1ffe1e9c        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x1ffe1e9c        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x1ffe1ea0                        __etext = .
+                0x1ffe1ea0                        __DATA_ROM = .
+
+.interrupts_ram
+                0x30003000        0x0
+                0x30003000                        . = ALIGN (0x4)
+                0x30003000                        __VECTOR_RAM__ = .
+                0x30003000                        __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x30003000                        . = (. + M_VECTOR_RAM_SIZE)
+                0x30003000                        . = ALIGN (0x4)
+                0x30003000                        __interrupts_ram_end__ = .
+                0x1ffe0000                        __VECTOR_RAM = DEFINED (__ram_vector_table__)?__VECTOR_RAM__:ORIGIN (m_interrupts)
+                0x00000000                        __RAM_VECTOR_TABLE_SIZE_BYTES = DEFINED (__ram_vector_table__)?(__interrupts_ram_end__ - __interrupts_ram_start__):0x0
+
+.data           0x30003000       0x44 load address 0x1ffe1ea0
+                0x30003000                        . = ALIGN (0x4)
+                0x30003000                        __DATA_RAM = .
+                0x30003000                        __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.g_clockSourceFreq
+                0x30003000       0x44 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+                0x30003000                g_clockSourceFreq
+ *(.jcr*)
+                0x30003044                        . = ALIGN (0x4)
+                0x30003044                        __data_end__ = .
+                0x1ffe1ee4                        __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x1ffefe00                        text_end = (ORIGIN (m_text) + LENGTH (m_text))
+                0x00000001                        ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+
+.tm_clone_table
+                0x30003044        0x0 load address 0x1ffe1ee4
+ .tm_clone_table
+                0x30003044        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x30003044        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+
+.igot.plt       0x30003044        0x0 load address 0x1ffe1ee4
+ .igot.plt      0x30003044        0x0 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.bss            0x30003044       0x7c load address 0x1ffe1ee4
+                0x30003044                        . = ALIGN (0x4)
+                0x30003044                        __START_BSS = .
+                0x30003044                        __bss_start__ = .
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x30003044        0x1 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ *fill*         0x30003045        0x3 
+ .bss.object.0  0x30003048       0x18 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss.s_lpuartIsr
+                0x30003060       0x24 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x30003060                s_lpuartIsr
+ .bss.s_lpuartHandle
+                0x30003084       0x24 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+                0x30003084                s_lpuartHandle
+ .bss.s_debugConsole
+                0x300030a8       0x14 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .bss.__stdio_exit_handler
+                0x300030bc        0x4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x300030bc                __stdio_exit_handler
+ *(COMMON)
+                0x300030c0                        . = ALIGN (0x4)
+                0x300030c0                        __bss_end__ = .
+                0x300030c0                        __END_BSS = .
+
+.m33_suspend    0x30000000        0x0
+ *(M33SuspendRam)
+                0x30000000                        . = ALIGN (0x4)
+
+.heap           0x300030c0      0x400 load address 0x1ffe1f60
+                0x300030c0                        . = ALIGN (0x8)
+                0x300030c0                        __end__ = .
+                0x300030c0                        PROVIDE (end = .)
+                0x300030c0                        __HeapBase = .
+                0x300034c0                        . = (. + HEAP_SIZE)
+ *fill*         0x300030c0      0x400 
+                0x300034c0                        __HeapLimit = .
+                0x300034c0                        __heap_limit = .
+
+.stack          0x300034c0      0x400 load address 0x1ffe2360
+                0x300034c0                        . = ALIGN (0x8)
+                0x300038c0                        . = (. + STACK_SIZE)
+ *fill*         0x300034c0      0x400 
+                0x3000e000                        __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x3000dc00                        __StackLimit = (__StackTop - STACK_SIZE)
+                0x3000e000                        PROVIDE (__stack = __StackTop)
+                0x3001e000                        __RscTblStart = ORIGIN (m_rsc_tbl)
+                0x3001f000                        __RscTblEnd = (ORIGIN (m_rsc_tbl) + LENGTH (m_rsc_tbl))
+
+.ARM.attributes
+                0x00000000       0x36
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x26 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .ARM.attributes
+                0x00000026       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000005e       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000082       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+ .ARM.attributes
+                0x000000bc       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/pin_mux.c.obj
+ .ARM.attributes
+                0x000000f6       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+ .ARM.attributes
+                0x00000130       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_api.c.obj
+ .ARM.attributes
+                0x0000016a       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+ .ARM.attributes
+                0x000001a4       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .ARM.attributes
+                0x000001de       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .ARM.attributes
+                0x00000218       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+ .ARM.attributes
+                0x00000252       0x24 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S.obj
+ .ARM.attributes
+                0x00000276       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+ .ARM.attributes
+                0x000002b0       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .ARM.attributes
+                0x000002ea       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .ARM.attributes
+                0x00000324       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .ARM.attributes
+                0x0000035e       0x26 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_memcpy.S.obj
+ .ARM.attributes
+                0x00000384       0x3a CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .ARM.attributes
+                0x000003be       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x000003f6       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x0000042e       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000466       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .ARM.attributes
+                0x0000048a       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x000004c2       0x24 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse_nonsecure_call.o)
+ .ARM.attributes
+                0x000004e6       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000051e       0x38 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000556       0x26 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x00000001                        ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+OUTPUT(release/hello_world_s.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_line_str
+                0x00000000      0x28f
+ .debug_line_str
+                0x00000000      0x28f /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+                                 0xd3 (size before relaxing)
+ .debug_line_str
+                0x0000028f       0xe8 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .debug_line_str
+                0x0000028f       0xd4 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/libgcc.a(cmse_nonsecure_call.o)
+
+.comment        0x00000000       0x44
+ .comment       0x00000000       0x44 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/hello_world_s.c.obj
+                                 0x45 (size before relaxing)
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/pin_mux.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_config.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/tzm_api.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/board.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/boards/mcimx93evk/trustzone_examples/hello_world/hello_world_s/clock_config.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/components/uart/fsl_adapter_lpuart.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_clock.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/drivers/fsl_trdc.c.obj
+ .comment       0x00000044       0x45 CMakeFiles/hello_world_s.elf.dir/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/debug_console_lite/fsl_debug_console.c.obj
+
+.debug_frame    0x00000000      0x1d8
+ .debug_frame   0x00000000       0x28 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000028       0x2c /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_frame   0x00000054      0x144 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000198       0x20 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x000001b8       0x20 /home/rejoice/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a(_exit.o)

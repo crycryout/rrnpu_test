@@ -32,6 +32,8 @@ toolOptions:
 /***********************************************************************************************************************
  * Definitions
  **********************************************************************************************************************/
+#define SAU_REGION_NPU_BASE  0x4A901000UL
+#define SAU_REGION_NPU_END   0x4ABFFFFFUL
 
 /***********************************************************************************************************************
  * BOARD_InitTrustZone function
@@ -101,7 +103,12 @@ void BOARD_InitTrustZone()
     /* Region end address */
     SAU->RLAR = (SAU_REGION_2_END & SAU_RLAR_LADDR_Msk) | ((1U << SAU_RLAR_NSC_Pos) & SAU_RLAR_NSC_Msk) |
                 ((1U << SAU_RLAR_ENABLE_Pos) & SAU_RLAR_ENABLE_Msk);
-
+    SAU->RNR  = 3;
+    SAU->RBAR = (SAU_REGION_NPU_BASE & SAU_RBAR_BADDR_Msk);
+    SAU->RLAR = ((SAU_REGION_NPU_END  & SAU_RLAR_LADDR_Msk)
+                /* NSC=0 表示 Non-Secure 访问被禁止 */
+                | (0U << SAU_RLAR_NSC_Pos)
+                | (1U << SAU_RLAR_ENABLE_Pos));
     /* Force memory writes before continuing */
     __DSB();
     /* Flush and refill pipeline with updated permissions */

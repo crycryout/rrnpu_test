@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "ethosu_log.h": "c"
+        "ethosu_log.h": "c",
+        "replay_templates_conv2d.h": "c"
     }
 }

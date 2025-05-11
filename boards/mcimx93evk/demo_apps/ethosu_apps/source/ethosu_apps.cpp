@@ -20,7 +20,7 @@
 //#include "quantize_model.hpp"
 // #include "transpose_model.hpp"
  //#include "pad_model.hpp"
-//#include "conv2d_model.hpp"
+#include "conv2d_model.hpp"
 //#include "depthwise_conv2d_model.hpp"
 //#include "fullconnected_model.hpp"
 //#include "relu_model.hpp"
@@ -68,6 +68,7 @@ volatile uint32_t msTicks = 0;
 // Example of a simple FreeRTOS task
 
 #define APP_TASK_STACK_SIZE (10*1024)
+#define FLAG_PA 0x20490000
 
 static TaskHandle_t app_task_handle = NULL;
 
@@ -76,9 +77,9 @@ int main(void)
     BOARD_InitHardware();
     PRINTF("Start!\r\n");
     
-    MSDK_EnableCpuCycleCounter();
-    uint32_t time_start = MSDK_GetCpuCycleCount();
-/*    if (ethosu_init(&ethosu_drv, (void *)ETHOSU_BASE_ADDRESS,
+    //MSDK_EnableCpuCycleCounter();
+    //uint32_t time_start = MSDK_GetCpuCycleCount();
+    /*if (ethosu_init(&ethosu_drv, (void *)ETHOSU_BASE_ADDRESS,
                      (void *)FAST_MEMORY_ADDRESS, FAST_MEMORY_SIZE, 0, 0)) {
          PRINTF("Failed to initialize Arm Ethos-U\n");
          return -1;
@@ -132,22 +133,20 @@ int main(void)
      else
          PRINTF("Inference status: success\r\n");
      
-   // uint32_t time_end = MSDK_GetCpuCycleCount();
+    //uint32_t time_end = MSDK_GetCpuCycleCount();
      //PRINTF("用时:  cycles (%lu )\n",
        //     time_end-time_start);
 */
-     replay_initialization_verification();
-     PRINTF("Initialization!");
+       
+    replay_initialization_verification();
+     PRINTF("Initialization!\r\n");
      replay_inference();
      replay_handle_interrupt();
-    uint32_t time_end = MSDK_GetCpuCycleCount();
-     PRINTF("用时:  cycles (%lu )\n",
-          time_end-time_start);
-    PRINTF("Done!\r\n");
+     PRINTF("DONE!\r\n");
     {
-        volatile uint8_t *flag = (volatile uint8_t *)0x20490000;
-        *flag = 1;                /* 写入 0 */
-        __DSB();                  /* 数据同步屏障，确保写入完成可见 */
+        volatile uint8_t *flag = (volatile uint8_t *)FLAG_PA;
+        *flag = 1;                
+        __DSB();                  
     }
 
     return 0;

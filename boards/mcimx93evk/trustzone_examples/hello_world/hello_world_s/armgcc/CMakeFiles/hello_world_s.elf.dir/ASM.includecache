@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S
+
+/home/rejoice/Downloads/SDK_2_16_000_MCIMX93-EVK/devices/MIMX9352/utilities/fsl_memcpy.S
+

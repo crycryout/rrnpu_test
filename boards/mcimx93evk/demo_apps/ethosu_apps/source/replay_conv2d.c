@@ -47,11 +47,9 @@ void replay_handle_interrupt(void)
     }
 
     /* —— 重放完 48 条之后，把结果数据 dump 出来 —— */
-    LOG_INFO("INFERENCE RESULT (128 bytes):");
-    LOG_INFO("print_result:");
- //   const uintptr_t target_addr = 0x20484000UL;
-//    print_memory((const void *)target_addr, 1552);
-    LOG_INFO("\n");
+    PRINTF("INFERENCE RESULT :\r\n");
+    const uintptr_t target_addr = 0x20484000UL;
+    print_memory((const void *)target_addr, 1024);
 }
 
 
